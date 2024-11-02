@@ -10,10 +10,7 @@ The Bin Packing Problem (BPP) is a classic optimization challenge where items of
 ### 1. Problem Formulation
 - Started with Integer Linear Programming (ILP) formulation
 - Transformed ILP to Quadratic Unconstrained Binary Optimization (QUBO)
-- Created test instances of varying sizes:
-  - Small (6 qubits)
-  - Medium (20 qubits)
-  - Large (>30 qubits)
+- Created test instances of varying sizes: small, medium and large
 
 ### 2. Solution Approaches Implemented
 
